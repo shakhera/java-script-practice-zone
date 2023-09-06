@@ -35,3 +35,5 @@ const z = { class: 9 }
 if (!!z) {
     console.log('value is truthy');
 }
+
+console.log(true + false);
